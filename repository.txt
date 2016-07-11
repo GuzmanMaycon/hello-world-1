@@ -1,0 +1,8 @@
+git init
+git status
+
+modificaciones de archivo -> road to commit
+git status			 	para ver la variación de la carpeta
+git add readme.txt  (// nombre del archivo sujeto a cambios)
+git commit 	       -m "mensajón!!"
+git diff       	la diferencia entre el archivo nuevo y tu 					último last commit
